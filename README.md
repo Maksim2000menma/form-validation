@@ -8,8 +8,6 @@ If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Lar
 + To get started, the following steps needs to be taken:
 + Clone the repo.
 + `cp .env.example .env`
-+ `npm install`
-+ `npm run dev`
 + `composer install`
 + `php artisan key:generate`
 + `sudo chown -R $USER:www-data storage`
